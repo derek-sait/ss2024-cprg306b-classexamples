@@ -17,6 +17,10 @@ export default function Home() {
         <li><Link className={linkStyles} href="./week4/functions">Arrow Functions & Higher Order Functions</Link></li>
         <li><Link className={linkStyles} href="./week4/counter">useState Counter</Link></li>
         <li><Link className={linkStyles} href="./week4/managed-form">Managed Form</Link></li>
+        <li><Link className={linkStyles} href="./week5/arrays">Array Functions</Link></li>
+        <li><Link className={linkStyles} href="./week5/contact">JSON and Handling Lists</Link></li>
+        <li><Link className={linkStyles} href="./week6/">Managing and Lifting State</Link></li>
+
       </ul>
     </main>
   );
