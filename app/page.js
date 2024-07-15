@@ -21,6 +21,7 @@ export default function Home() {
         <li><Link className={linkStyles} href="./week5/contact">JSON and Handling Lists</Link></li>
         <li><Link className={linkStyles} href="./week6/">Managing and Lifting State</Link></li>
         <li><Link className={linkStyles} href="./week7/">Data Fetching</Link></li>
+        <li><Link className={linkStyles} href="./week8/">Firebase Auth</Link></li>
 
       </ul>
     </main>
